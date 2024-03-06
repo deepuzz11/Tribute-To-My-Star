@@ -13,7 +13,6 @@ Vishwanathan Anand, affectionately known as Vishy, is a prominent figure in the 
 - **Overview of his career and achievements:** Explore the highlights of Anand's illustrious career, including his numerous accolades and titles.
 - **Notable achievements section:** Delve into the specific milestones and accomplishments that have defined Anand's legacy in the world of chess.
 - **Legacy and influence section:** Discover the profound impact that Vishwanathan Anand has had on the chess community and his enduring legacy as a sports icon.
-- **Footer with attribution:** Acknowledgment of the creator and attribution for the tribute page.
 
 ## Technologies Used
 
